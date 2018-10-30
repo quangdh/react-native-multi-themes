@@ -1,4 +1,4 @@
-import { createTheme } from "../../lib";
+import { createTheme } from "react-native-multi-themes";
 
 export default createTheme("dark", "default", {
     primaryColor: "black",

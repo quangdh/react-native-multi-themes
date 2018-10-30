@@ -1,4 +1,4 @@
-import MultiThemes from "../lib";
+import MultiThemes from "react-native-multi-themes";
 import light from "./themes/light";
 import dark from "./themes/dark";
 
